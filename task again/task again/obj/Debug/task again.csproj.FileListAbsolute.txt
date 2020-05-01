@@ -1,0 +1,9 @@
+c:\users\baher\documents\visual studio 2013\Projects\task again\task again\bin\Debug\task again.exe.config
+C:\Users\baher\Documents\Visual Studio 2013\Projects\task again\task again\bin\Debug\task again.exe
+C:\Users\baher\Documents\Visual Studio 2013\Projects\task again\task again\bin\Debug\task again.pdb
+C:\Users\baher\Documents\Visual Studio 2013\Projects\task again\task again\obj\Debug\task again.csprojResolveAssemblyReference.cache
+C:\Users\baher\Documents\Visual Studio 2013\Projects\task again\task again\obj\Debug\task_again.Form1.resources
+C:\Users\baher\Documents\Visual Studio 2013\Projects\task again\task again\obj\Debug\task_again.Properties.Resources.resources
+C:\Users\baher\Documents\Visual Studio 2013\Projects\task again\task again\obj\Debug\task again.csproj.GenerateResource.Cache
+C:\Users\baher\Documents\Visual Studio 2013\Projects\task again\task again\obj\Debug\task again.exe
+C:\Users\baher\Documents\Visual Studio 2013\Projects\task again\task again\obj\Debug\task again.pdb
